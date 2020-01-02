@@ -12,3 +12,5 @@
 ## [📺 ETH/USD (Ethereum/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/ETHUSD)
 
 ## [📺 IOT/USD (IOTA/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/IOTUSD)
+
+## [📺 EDO/USD (Eidoo/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/EDOUSD)
