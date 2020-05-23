@@ -5,6 +5,8 @@
 
 ![Customizable Cryptocurrency Dashboard with Chart Candlestick Price Movement Volume Stoch RSI](Images/Customizable-Cryptocurrency-Dashboard-with-Chart.png)
 
+![Customizable Cryptocurrency Dashboard with Chart Candlestick Price Movement Volume Stoch RSI](Images/Customizable-Cryptocurrency-Dashboard-with-Chart-Trendline.png)
+
 # 📺 Cryptocurrencies 💹
 
 ## [📺 BTC/USD (Bitcoin/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BTCUSD)
