@@ -17,4 +17,4 @@
 
 ## [📺 SNT/USD (Status/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SNTUSD)
 
-## [📺 EDO/USD (Eidoo/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/EDOUSD)
+## [📺 PNT/USD (pNetwork /US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/PNTUSD)
