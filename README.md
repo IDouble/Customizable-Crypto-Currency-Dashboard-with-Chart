@@ -17,4 +17,4 @@
 
 ## [📺 SNT/USD (Status/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SNTUSD)
 
-## [📺 SSV/USD (SSV/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SSVUSD)
+## [📺 SSV/USD (SSV Network/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SSVUSD)
