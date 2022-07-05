@@ -15,6 +15,6 @@
 
 ## [📺 IOT/USD (IOTA/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/IOTUSD)
 
-## [📺 SNT/USD (Status/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SNTUSD)
+## [📺 PNT/USD (pNetwork/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/PNTUSD)
 
 ## [📺 SSV/USD (SSV Network/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SSVUSD)
