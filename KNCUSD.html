@@ -1,0 +1,62 @@
+<html>
+	<head>
+		<!-- Icon -->
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="icon" sizes="16x16 32x32 64x64" href="img/favicon.ico">
+		<link rel="icon" type="image/png" sizes="196x196" href="img/favicon-192.png">
+		<link rel="icon" type="image/png" sizes="160x160" href="img/favicon-160.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="img/favicon-96.png">
+		<link rel="icon" type="image/png" sizes="64x64" href="img/favicon-64.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16.png">
+		<link rel="apple-touch-icon" href="img/favicon-57.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="img/favicon-114.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="img/favicon-72.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="img/favicon-144.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="img/favicon-60.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="img/favicon-120.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="img/favicon-76.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="img/favicon-152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="img/favicon-180.png">
+		<meta name="msapplication-TileColor" content="#FFFFFF">
+		<meta name="msapplication-TileImage" content="img/favicon-144.png">
+		<meta name="msapplication-config" content="/browserconfig.xml">
+		<meta charset="UTF-8" />
+		<meta name="description" content="📺 A Dashboard with the price movements of KNC/USD (Kyber Network/US-Dollar) 💹">
+	
+		<link rel="stylesheet" href="css/styles.css?v=1.0">
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+
+		<title>KNC/USD</title>
+	</head>
+	<body>
+		<div class="tradingview-widget-container">
+			<div id="tradingview_417af"></div>
+			<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+			<script type="text/javascript">
+				new TradingView.widget({
+					"autosize": true,
+					"symbol": "BINANCE:KNCUSD",
+					"interval": "W",
+					"timezone": "Europe/Zurich",
+					"theme": "Dark",
+					"style": "1",
+					"locale": "en",
+					"toolbar_bg": "#f1f3f6",
+					"enable_publishing": false,
+					"withdateranges": true,
+					"hide_side_toolbar": false,
+					"allow_symbol_change": true,
+					"details": false,
+					"studies": [
+						"PivotPointsHighLow@tv-basicstudies",
+						"RSI@tv-basicstudies",
+						"StochasticRSI@tv-basicstudies",
+						"Volume@tv-basicstudies"
+					],
+					"container_id": "tradingview_417af"
+				});
+			</script>
+		</div>
+	</body>
+</html>
