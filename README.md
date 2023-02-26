@@ -20,3 +20,5 @@
 ## [📺 SSV/USD (SSV Network/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SSVUSD)
 
 ## [📺 KNC/USD (Kyber Network/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/KNCUSD)
+
+## [📺 LINA/USD (Linear Finance/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/LINAUSD)
