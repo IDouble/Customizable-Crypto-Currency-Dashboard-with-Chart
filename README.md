@@ -18,3 +18,5 @@
 ## [📺 PNT/USD (pNetwork/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/PNTUSD)
 
 ## [📺 SSV/USD (SSV Network/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SSVUSD)
+
+## [📺 KNC/USD (Kyber Network/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/KNCUSD)
