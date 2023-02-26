@@ -24,3 +24,5 @@
 ## [📺 LINA/USD (Linear Finance/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/LINAUSD)
 
 ## [📺 DENT/USD (Dent/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/DENTUSD)
+
+## [📺 UFT/USD (UniLend/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/UFTUSD)
