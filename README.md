@@ -18,3 +18,13 @@
 ## [📺 PNT/USD (pNetwork/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/PNTUSD)
 
 ## [📺 SSV/USD (SSV Network/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SSVUSD)
+
+## [📺 KNC/USD (Kyber Network/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/KNCUSD)
+
+## [📺 LINA/USD (Linear Finance/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/LINAUSD)
+
+## [📺 DENT/USD (Dent/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/DENTUSD)
+
+## [📺 UFT/USD (UniLend/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/UFTUSD)
+
+## [📺 DATA/USD (Streamr/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/DATAUSD)
