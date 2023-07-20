@@ -21,10 +21,10 @@
 
 ## [📺 0x/USD (0x/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/0xUSD)
 
-## [📺 KNC/USD (Kyber Network/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/KNCUSD)
-
 ## [📺 BNT/USD (Bancor/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BNTUSD)
 
 ## [📺 UFT/USD (UniLend/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/UFTUSD)
 
 ## [📺 DATA/USD (Streamr/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/DATAUSD)
+
+## [📺 LINA/USD (Linear Finance/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/LINAUSD)
