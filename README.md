@@ -27,4 +27,4 @@
 
 ## [📺 DATA/USD (Streamr/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/DATAUSD)
 
-## [📺 LINA/USD (Linear Finance/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/LINAUSD)
+## [📺 CLV/USD (Clover Finance/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/CLVUSD)
