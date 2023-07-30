@@ -19,11 +19,11 @@
 
 ## [📺 SSV/USD (SSV Network/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SSVUSD)
 
-## [📺 0x/USD (0x/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/0xUSD)
-
 ## [📺 BNT/USD (Bancor/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BNTUSD)
 
 ## [📺 UFT/USD (UniLend/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/UFTUSD)
+
+## [📺 SPELL/USD (Spell Token/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SPELLUSD)
 
 ## [📺 BOND/USD (BarnBridge/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BONDUSD)
 
