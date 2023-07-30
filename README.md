@@ -25,6 +25,6 @@
 
 ## [📺 UFT/USD (UniLend/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/UFTUSD)
 
-## [📺 DATA/USD (Streamr/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/DATAUSD)
+## [📺 BOND/USD (BarnBridge/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BONDUSD)
 
 ## [📺 CLV/USD (Clover Finance/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/CLVUSD)
