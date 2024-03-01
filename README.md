@@ -28,3 +28,5 @@
 ## [📺 BOND/USD (BarnBridge/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BONDUSD)
 
 ## [📺 CLV/USD (Clover Finance/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/CLVUSD)
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
