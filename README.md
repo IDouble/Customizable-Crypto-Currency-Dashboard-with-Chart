@@ -13,6 +13,8 @@
 
 ## [📺 ETH/USD (Ethereum/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/ETHUSD)
 
+## [📺 BNB/USD (Binance Coin/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BNBUSD)
+
 ## [📺 IOT/USD (IOTA/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/IOTUSD)
 
 ## [📺 PNT/USD (pNetwork/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/PNTUSD)
