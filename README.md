@@ -21,7 +21,7 @@
 
 ## [📺 BNT/USD (Bancor/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BNTUSD)
 
-## [📺 UFT/USD (UniLend/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/UFTUSD)
+## [📺 MATIC/USD (Polygon/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/MATICUSD)
 
 ## [📺 SPELL/USD (Spell Token/US-Dollar) 💹](https://ayidouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SPELLUSD)
 
