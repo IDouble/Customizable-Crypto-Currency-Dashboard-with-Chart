@@ -23,7 +23,7 @@
 
 ## [📺 MATIC/USD (Polygon/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/MATICUSD)
 
-## [📺 SPELL/USD (Spell Token/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SPELLUSD)
+## [📺 FTM/USD (Fantom/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/FTMUSD)
 
 ## [📺 BOND/USD (BarnBridge/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BONDUSD)
 
