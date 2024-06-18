@@ -13,7 +13,7 @@
 
 ## [📺 ETH/USD (Ethereum/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/ETHUSD)
 
-## [📺 IOT/USD (IOTA/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/IOTUSD)
+## [📺 IOTA/USD (IOTA/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/IOTAUSD)
 
 ## [📺 BNB/USD (Binance Coin/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BNBUSD)
 
