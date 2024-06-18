@@ -1,4 +1,4 @@
-# [📺Customizable Crypto Currency Dashboard with Chart💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart)
+# [📺 Customizable Crypto Currency Dashboard with Chart 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart)
 📺 A Dashboard with the price movements of the selected Cryptocurrencies 💹
 
 **Link** : **[https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart)**</br>
