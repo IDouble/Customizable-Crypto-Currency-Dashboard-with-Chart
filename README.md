@@ -27,6 +27,6 @@
 
 ## [📺 BOND/USD (BarnBridge/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BONDUSD)
 
-## [📺 CLV/USD (Clover Finance/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/CLVUSD)
+## [📺 IDEX/USD (IDEX/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/IDEXUSD)
 
 ![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
