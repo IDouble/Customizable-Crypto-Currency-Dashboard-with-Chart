@@ -25,7 +25,7 @@
 
 ## [📺 FTM/USD (Fantom/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/FTMUSD)
 
-## [📺 BOND/USD (BarnBridge/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BONDUSD)
+## [📺 ARB/USD (Arbitrum/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/ARBUSD)
 
 ## [📺 IDEX/USD (IDEX/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/IDEXUSD)
 
