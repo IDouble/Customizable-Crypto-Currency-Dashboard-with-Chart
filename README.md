@@ -21,7 +21,7 @@
 
 ## [📺 BNT/USD (Bancor/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BNTUSD)
 
-## [📺 MATIC/USD (Polygon/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/MATICUSD)
+## [📺 POL/USD (Polygon/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/POLUSD)
 
 ## [📺 FTM/USD (Fantom/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/FTMUSD)
 
