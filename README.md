@@ -13,8 +13,6 @@
 
 ## [📺 ETH/USD (Ethereum/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/ETHUSD)
 
-## [📺 IOTA/USD (IOTA/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/IOTAUSD)
-
 ## [📺 BNB/USD (Binance Coin/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BNBUSD)
 
 ## [📺 SSV/USD (SSV Network/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SSVUSD)
@@ -22,6 +20,8 @@
 ## [📺 BNT/USD (Bancor/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BNTUSD)
 
 ## [📺 POL/USD (Polygon/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/POLUSD)
+
+## [📺 QUICK/USD (QUICK/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/QUICKUSD)
 
 ## [📺 FTM/USD (Fantom/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/FTMUSD)
 
