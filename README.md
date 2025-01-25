@@ -23,7 +23,7 @@
 
 ## [📺 QUICK/USD (QUICK/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/QUICKUSD)
 
-## [📺 FTM/USD (Fantom/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/FTMUSD)
+## [📺 DOGE/USD (DOGE/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/DOGEUSD)
 
 ## [📺 ARB/USD (Arbitrum/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/ARBUSD)
 
