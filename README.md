@@ -17,7 +17,7 @@
 
 ## [📺 SSV/USD (SSV Network/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SSVUSD)
 
-## [📺 BNT/USD (Bancor/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/BNTUSD)
+## [📺 TRUMP/USD (TRUMP/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/TRUMPUSD)
 
 ## [📺 POL/USD (Polygon/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/POLUSD)
 
