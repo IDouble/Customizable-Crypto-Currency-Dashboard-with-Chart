@@ -23,7 +23,7 @@
 
 ## [📺 QUICK/USD (QUICK/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/QUICKUSD)
 
-## [📺 DOGE/USD (DOGE/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/DOGEUSD)
+## [📺 WLFI/USD (WLFI/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/WLFIUSD)
 
 ## [📺 ARB/USD (Arbitrum/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/ARBUSD)
 
