@@ -27,6 +27,6 @@
 
 ## [📺 ARB/USD (Arbitrum/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/ARBUSD)
 
-## [📺 IDEX/USD (IDEX/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/IDEXUSD)
+## [📺 SOL/USD (SOL/US-Dollar) 💹](https://idouble.github.io/Customizable-Crypto-Currency-Dashboard-with-Chart/SOLUSD)
 
 ![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
